@@ -2,30 +2,25 @@
 
 ### 🎓 Education & Programs
 
-- **Yonsei University**  
+- **Yonsei University** 🦅  
   *B.A. in Industrial Design & Cognitive Science*  
   *(Mar 2022 – Present)*
 
-- **ENACTUS**  
+- **ENACTUS** 🌏  
   *Social Venture Team Member*  
   *(Mar 2024 – Feb 2025)*
-  
-- **Doosan Robotics Bootcamp**  
+
+  - *Projects*  
+    - [BeSitter](#) *(link coming soon)*
+    - [3355](#) *(link coming soon)*
+    - [HAEPARANG](#) *(link coming soon)*
+
+- **Doosan Robotics Bootcamp** 🤖  
   *Robotics & AI Engineering Track*  
   *(Jan 2025 – Jul 2025)*
-  
 
-<!--
-**WONnyyyyy/WONnyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - *Projects*  
+    - [Coda](https://github.com/Rokey-3-D-autonomous/coda)  
+    - [MEDICREW](https://github.com/Rokey-3-D-2-Second/collaboration-2)  
+    - [ROADY](https://github.com/Rokey-3-D-2-Second/collaboration-3)  
+    - [TraySetter](#) *(link coming soon)*
