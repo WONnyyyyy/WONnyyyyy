@@ -12,8 +12,8 @@
 
   - *Projects*  
     - [BeSitter](#) *(link coming soon)*
-    - [3355](#) *(link coming soon)*
-    - [HAEPARANG](#) *(link coming soon)*
+    - [3355](https://www.notion.so/3355-262d35c943028063b6a5c3f7c96270c5?source=copy_link)
+    - [HAEPARANG](https://www.notion.so/HAEPARANG-262d35c94302800c8bf0efd5a6723c6b?source=copy_link)
 
 - **Doosan Robotics Bootcamp** 🤖  
   *Robotics & AI Engineering Track*  
@@ -23,17 +23,16 @@
     - [Coda](https://github.com/Rokey-3-D-autonomous/coda)  
     - [MEDICREW](https://github.com/Rokey-3-D-2-Second/collaboration-2)  
     - [ROADY](https://github.com/Rokey-3-D-2-Second/collaboration-3)  
-    - [TraySetter](#) *(link coming soon)*
+    - [TraySetter](https://www.canva.com/design/DAGr_Q6r08w/OwgY6S_ZUErYb5fKPci1yw/edit?utm_content=DAGr_Q6r08w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-*(contents coming soon)*
-- **해커톤**👩‍💻
+- **Hackathon**👩‍💻
     
   - *Projects*
-    - 원더걸즈
-    - 고하이
+    - Sep 2024 [WonderGirls](https://www.notion.so/262d35c94302806e84bacad31ae2c592?source=copy_link)
+    - Nov 2024 [GoHigh](https://www.notion.so/Hire-Gangwon-262d35c9430280749ebdef837237911b?source=copy_link)
 
-- **서비스디자인**🌊
+- **Service Design**🌊
 
   - *Projects*
-    - 코레일 산학
-    - 헬스케어
+    - Aug 2025 [KORAIL Industry-Academia Collaboration]
+    - Dec 2024 [Medibuddy](https://www.notion.so/Medibuddy-262d35c943028009867ed7f1ce2a3d95?source=copy_link)
