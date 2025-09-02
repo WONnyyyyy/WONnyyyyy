@@ -6,15 +6,6 @@
   *B.A. in Industrial Design & Cognitive Science*  
   *(Mar 2022 – Present)*
 
-- **ENACTUS** 🌏  
-  *Social Venture Team Member*  
-  *(Mar 2024 – Feb 2025)*
-
-  - *Projects*  
-    - [BeSitter](#) *(link coming soon)*
-    - [3355](https://www.notion.so/3355-262d35c943028063b6a5c3f7c96270c5?source=copy_link)
-    - [HAEPARANG](https://www.notion.so/HAEPARANG-262d35c94302800c8bf0efd5a6723c6b?source=copy_link)
-
 - **Doosan Robotics Bootcamp** 🤖  
   *Robotics & AI Engineering Track*  
   *(Jan 2025 – Jul 2025)*
@@ -25,6 +16,15 @@
     - [ROADY](https://github.com/Rokey-3-D-2-Second/collaboration-3)  
     - [TraySetter](https://www.canva.com/design/DAGr_Q6r08w/OwgY6S_ZUErYb5fKPci1yw/edit?utm_content=DAGr_Q6r08w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+- **ENACTUS** 🌏  
+  *Social Venture Team Member*  
+  *(Mar 2024 – Feb 2025)*
+
+  - *Projects*  
+    - [BeSitter](#) *(link coming soon)*
+    - [3355](https://www.notion.so/3355-262d35c943028063b6a5c3f7c96270c5?source=copy_link)
+    - [HAEPARANG](https://www.notion.so/HAEPARANG-262d35c94302800c8bf0efd5a6723c6b?source=copy_link)
+
 - **Hackathon**👩‍💻
     
   - *Projects*
@@ -34,5 +34,5 @@
 - **Service Design**🌊
 
   - *Projects*
-    - Aug 2025 [KORAIL Industry-Academia Collaboration]
+    - Aug 2025 [KORAIL Industry-Academia Collaboration](#) *(link coming soon)*
     - Dec 2024 [Medibuddy](https://www.notion.so/Medibuddy-262d35c943028009867ed7f1ce2a3d95?source=copy_link)
