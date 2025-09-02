@@ -11,9 +11,9 @@
   *(Jan 2025 – Jul 2025)*
 
   - *Projects*  
-    - [Coda](https://github.com/Rokey-3-D-autonomous/coda)  
-    - [MEDICREW](https://github.com/Rokey-3-D-2-Second/collaboration-2)  
-    - [ROADY](https://github.com/Rokey-3-D-2-Second/collaboration-3)  
+    - [Coda](https://github.com/Rokey-3-D-autonomous/coda) / [Coda](https://www.canva.com/design/DAGsFyD0tr0/sglEr2E14XssseB0lSoJng/edit?utm_content=DAGsFyD0tr0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    - [MEDICREW](https://github.com/Rokey-3-D-2-Second/collaboration-2) / [MEDICREW](https://www.canva.com/design/DAGsF_ONccY/072d9fZ81cRlCPkEFVS4NQ/edit?utm_content=DAGsF_ONccY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    - [ROADY](https://github.com/Rokey-3-D-2-Second/collaboration-3) / [ROADY](https://www.canva.com/design/DAGsLjF4C3Y/TLd3C-pgppmxJ8vxYV0jtA/edit?utm_content=DAGsLjF4C3Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     - [TraySetter](https://www.canva.com/design/DAGr_Q6r08w/OwgY6S_ZUErYb5fKPci1yw/edit?utm_content=DAGr_Q6r08w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - **ENACTUS** 🌏  
