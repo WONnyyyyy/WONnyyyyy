@@ -1,10 +1,6 @@
 ## Hi, I’m Jiwon — I design interactions between humans and robots 🫱🏻‍🫲🏿
 
-### 🎓 Education & Programs
-
-- **Yonsei University** 🦅  
-  *B.A. in Industrial Design & Cognitive Science*  
-  *(Mar 2022 – Present)*
+### 👩🏻‍💻 Programs
 
 - **Doosan Robotics Bootcamp** 🤖  
   *Robotics & AI Engineering Track*  
@@ -36,3 +32,9 @@
   - *Projects*
     - Aug 2025 [KORAIL Industry-Academia Collaboration](#) *(link coming soon)*
     - Dec 2024 [Medibuddy](https://www.notion.so/Medibuddy-262d35c943028009867ed7f1ce2a3d95?source=copy_link)
+
+### 🎓 Education
+
+- **Yonsei University** 🦅  
+  *B.A. in Industrial Design & Cognitive Science*  
+  *(Mar 2022 – Present)*
